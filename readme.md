@@ -84,7 +84,7 @@ Main entities (see `backend/database/schema.sql`):
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Zainabfarih/StageTrack.git
 cd StageTrack
 
 # Backend
