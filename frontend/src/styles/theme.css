@@ -1,0 +1,17 @@
+
+[data-theme="light"] {
+  --accent-primary: #4f46e5;
+  --accent-secondary: #06b6d4;
+  --accent-danger: #ef4444;
+  --accent-warning: #f59e0b;
+}
+
+[data-theme="dark"] {
+  --accent-primary: #818cf8;
+  --accent-secondary: #22d3ee;
+  --accent-danger: #f87171;
+  --accent-warning: #fbbf24;
+}
+
+[dir="rtl"] { text-align: right; }
+[dir="rtl"] .card { text-align: right; }

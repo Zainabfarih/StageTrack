@@ -1,0 +1,235 @@
+{
+  "common": {
+    "welcome": "Welcome", "login": "Login", "logout": "Logout", "register": "Register",
+    "profile": "Profile", "dashboard": "Dashboard", "settings": "Settings",
+    "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit",
+    "updated": "Updated", "created": "Created", "deleted": "Deleted",
+    "add": "Add", "create": "Create", "validate": "Confirm", "search": "Search",
+    "filter": "Filter", "loading": "Loading...", "saving": "Saving...",
+    "error": "Error", "success": "Success", "confirm": "Confirm", "yes": "Yes", "no": "No",
+    "next": "Next", "previous": "Previous", "submit": "Submit", "back": "Back",
+    "home": "Home", "about": "About", "contact": "Contact", "help": "Help",
+    "language": "Language", "theme": "Theme", "light": "Light", "dark": "Dark", "close": "Close",
+    "view": "View", "none": "None", "upload": "Upload", "saved": "Saved!",
+    "actions": "Actions", "action": "Action", "viewDetails": "View details",
+    "saveRanking": "Save my wishes", "noData": "No data available", "or": "or",
+    "all": "All", "results": "result(s)", "selected": "selected", "deleteSelection": "Delete", "close": "Close", "other": "Other"
+  },
+  "navbar": {
+    "home": "Home", "about": "About", "login": "Login", "register": "Register",
+    "logout": "Logout", "language": "Language", "theme": "Theme",
+    "darkMode": "Dark mode", "lightMode": "Light mode"
+  },
+  "auth": {
+    "login": "Sign in", "logout": "Sign out", "register": "Create account",
+    "forgotPassword": "Forgot password?", "resetPassword": "Reset password",
+    "email": "Email", "password": "Password", "confirmPassword": "Confirm password",
+    "newPassword": "New password", "rememberMe": "Remember me", "role": "Role",
+    "fillAllFields": "Please fill in all fields",
+    "invalidCredentials": "Invalid email or password",
+    "accountNotVerified": "Account not verified",
+    "emailAlreadyUsed": "This email is already in use",
+    "passwordTooWeak": "Password must be at least 8 characters",
+    "passwordTooShort": "Password must be at least 8 characters",
+    "passwordsNotMatch": "Passwords do not match",
+    "passwordMismatch": "Passwords do not match",
+    "noAccount": "Don't have an account?", "alreadyAccount": "Already have an account?",
+    "continueWithGoogle": "Continue with Google",
+    "changePasswordTitle": "Change your password",
+    "changePasswordSubtitle": "Your account was created by an administrator. Set a new password to continue.",
+    "confirmChange": "Confirm change"
+  },
+  "register": {
+    "title": "Company sign-up",
+    "subtitle": "Create your company account to post internship offers.",
+    "companyName": "Company name",
+    "sector": "Sector",
+    "manager": "Manager",
+    "website": "Website",
+    "note": "Only companies can create an account. Students and supervisors are created by their administration."
+  },
+  "roles": {
+    "company": "Company", "admin": "University Administration",
+    "univSupervisor": "University Supervisor", "companySupervisor": "Company Supervisor"
+  },
+  "home": {
+    "title": "Manage internships, effortlessly.",
+    "subtitle": "StageTrack connects students, companies, supervisors and university administration on one modern, collaborative platform.",
+    "getStarted": "Get started",
+    "features": {
+      "student": { "title": "Students", "desc": "Rank your wishes, track your tasks and upload your documents in one click." },
+      "company": { "title": "Companies", "desc": "Post offers, manage your supervisors and follow your interns." },
+      "supervisor": { "title": "Supervisors", "desc": "Track internship progress and validate reports." },
+      "admin": { "title": "Administration", "desc": "Automatic assignment, statistics and global oversight." }
+    },
+    "how": {
+      "title": "How it works",
+      "step1": { "title": "Receive your credentials", "desc": "Students and supervisors receive their credentials by email; only companies create their own account." },
+      "step2": { "title": "Rank your wishes", "desc": "Browse offers and order your internship preferences." },
+      "step3": { "title": "Assignment & tracking", "desc": "Assignment runs automatically, then track your tasks and documents." }
+    },
+    "actorsTitle": "One platform for every role",
+    "actorsSubtitle": "Students, companies, supervisors and administration — each with their own space.",
+    "company": {
+      "badge": "For companies",
+      "title": "Hire your interns, effortlessly",
+      "subtitle": "Post your offers, receive ranked applications and track your interns end-to-end.",
+      "p1": "Post unlimited internship offers",
+      "p2": "Automatic assignment by merit and wishes",
+      "p3": "Track tasks, reports and agreements in real time",
+      "cta": "Register my company",
+      "cardTitle": "Company workspace",
+      "cardSub": "All your internship recruitment",
+      "stat1": "Internship offers published",
+      "stat2": "Applications ranked automatically",
+      "stat3": "Interns and supervisors tracking"
+    },
+    "why": {
+      "title": "Why StageTrack?",
+      "centralise": { "title": "All in one place", "desc": "Offers, wishes, assignments, tasks and documents centralized." },
+      "time": { "title": "Save time", "desc": "Automatic assignment replaces hours of manual processing." },
+      "transparency": { "title": "Transparency", "desc": "Every actor follows progress in real time, no blind spots." },
+      "tracking": { "title": "End-to-end tracking", "desc": "From application to internship report validation." }
+    },
+    "cta": {
+      "title": "Ready to simplify internships?",
+      "subtitle": "Join StageTrack and manage the entire internship cycle in one place.",
+      "button": "Get started now"
+    }
+  },
+  "about": {
+    "title": "About StageTrack",
+    "description": "StageTrack is a modern internship management platform that centralizes and streamlines the whole journey: from posting offers to final report validation.",
+    "role": "Junior Software Engineer",
+    "developedBy": "Developed by",
+    "points": {
+      "mission": { "title": "Our mission", "desc": "Simplify internship management for universities and companies." },
+      "collab": { "title": "Collaboration", "desc": "Students, supervisors and administration work in one place." },
+      "auto": { "title": "Automatic assignment", "desc": "Internships assigned by wishes and merit, in one click." },
+      "secure": { "title": "Security", "desc": "Email authentication, roles and protected data." }
+    },
+    "teamMember": "Team member"
+  },
+  "navigation": {
+    "dashboard": "Dashboard", "internships": "Internships", "applications": "Applications",
+    "documents": "Documents", "messages": "Messages", "chat": "Chat", "calendar": "Calendar",
+    "profile": "My profile", "settings": "Settings", "help": "Help & Support",
+    "tasks": "Tasks", "monitoring": "Monitoring", "students": "Students", "companies": "Companies",
+    "supervisors": "Supervisors", "assignment": "Assignment", "interns": "Interns", "disconnect": "Logout", "offers": "Offers", "myWishes": "My wishes"
+  },
+  "dashboard": {
+    "welcome": "Welcome to your space", "welcomeStudent": "Welcome, rank your internship offers!",
+    "rankInstructions": "Rank offers in order of preference", "assignedInternship": "Assigned internship",
+    "noAssignedInternship": "No internship assigned yet.", "supervisors": "Supervisors",
+    "noSupervisor": "No supervisor assigned.", "univSupervisor": "University supervisor",
+    "companySupervisor": "Company supervisor", "supervisedInterns": "Supervised interns",
+    "rankSaved": "Wishes saved!", "stats": "Institution statistics",
+    "totalInternships": "Total internships", "openInternships": "Open internships",
+    "finishedInternships": "Finished internships", "onsite": "On-site", "remote": "Remote",
+    "totalStudents": "Students", "totalCompanies": "Companies", "byDomain": "Internships by domain",
+    "noStats": "No statistics available.", "noOffers": "No offers found.", "loading": "Loading...",
+    "byStatus": "By status", "candidaturesByOffer": "Applications per offer",
+    "totalOffers": "Offers", "totalApplications": "Applications", "totalPositions": "Positions",
+    "noLevel": "No level set for your account. Please contact the administration."
+  },
+  "internship": {
+    "title": "Internship title", "company": "Company", "location": "Location", "duration": "Duration",
+    "startDate": "Start date", "endDate": "End date", "description": "Description",
+    "requirements": "Required skills", "salary": "Compensation", "apply": "Apply",
+    "viewDetails": "View details", "noInternships": "No internships available", "none": "No internship",
+    "subject": "Title", "domain": "Domain", "type": "Type", "onsite": "On-site", "remote": "Remote",
+    "localization": "Location", "skills": "Skills", "period": "Period", "posts": "Number of positions",
+    "newOffer": "New offer", "searchPlaceholder": "Search internships...",
+    "createOffer": "Create offer", "editOffer": "Edit offer", "deleteConfirm": "Delete this offer?",
+    "myOffers": "My internship offers", "list": "Supervised internships", "candidatures": "Applications",
+    "offers": "Internship offers", "details": "Offer details",
+    "typeOffre": "Offer type", "targetLevels": "Target levels", "level": "Level",
+    "statuses": { "ouvert": "Open", "ferme": "Closed", "en_cours": "In progress", "termine": "Completed" }
+  },
+  "profile": {
+    "personalInfo": "Personal information", "documents": "Documents",
+    "nom": "Last name", "prenom": "First name", "mail": "Email", "tel": "Phone",
+    "adresse": "Address", "ville": "City", "date_naissance": "Date of birth", "sexe": "Gender",
+    "niveau": "Level", "filiere": "Major", "poste": "Position", "specialite": "Specialty", "grade": "Grade",
+    "score": "Score", "report": "Report", "convention": "Agreement", "coverLetter": "Cover letter",
+    "complete": "Complete profile", "completeHint": "Fill in this information to access all features.",
+    "leaveEmpty": "Leave empty to keep current", "updated": "Profile updated!", "fileUploaded": "File uploaded!",
+    "updateProfile": "Update profile", "profileUpdated": "Profile updated successfully"
+  },
+  "tasks": {
+    "manage": "Task assignment", "tracking": "Task tracking", "title": "Task",
+    "deadline": "Deadline", "status": "Status", "add": "Add task", "none": "No tasks",
+    "markDone": "Complete", "markUndone": "Reopen", "selectStage": "Select an internship",
+    "assignTo": "Assign to...", "required": "Title is required"
+  },
+  "supervisor": {
+    "add": "Add a supervisor", "created": "Supervisor created. A temporary password was emailed to them.",
+    "deleteConfirm": "Delete this supervisor?", "position": "Position", "specialty": "Specialty",
+    "grade": "Grade", "assign": "Assign", "assignUniv": "Assign a university supervisor",
+    "select": "Select a supervisor", "none": "No supervisor", "assigned": "Supervisor assigned"
+  },
+  "interns": { "none": "No interns", "details": "Intern details", "select": "Select an intern" },
+  "report": { "status": "Report status", "validate": "Validate", "reject": "Reject" },
+  "assignment": {
+    "title": "Student assignment", "runAuto": "Run automatic assignment",
+    "wishes": "Internship wishes", "rank": "Rank",
+    "runDone": "Assignment completed",
+    "withdraw": "Withdraw",
+    "withdrawConfirm": "Confirm withdrawal? This is final and frees your seat to improve others' assignment.",
+    "withdrawn": "You have withdrawn",
+    "desistUntil": "Withdrawal possible until",
+    "closed": "Assignment campaign closed",
+    "notStarted": "Assignment not started yet",
+    "wishesDeadline": "Wishes ranking deadline",
+    "setDeadline": "Set deadline",
+    "deadlineSet": "Deadline saved",
+    "deadlinePassed": "Deadline passed — editing wishes is disabled",
+    "noDeadline": "No deadline set"
+  },
+  "tracking": {
+    "title": "Internship tracking",
+    "noteEntr": "Company supervisor grade",
+    "noteUniv": "University supervisor grade",
+    "average": "Average",
+    "rate": "Grade",
+    "myNote": "My grade",
+    "none": "No internship to track",
+    "report": "Report",
+    "saved": "Grade saved"
+  },
+  "settings": {
+    "general": "General", "security": "Security", "privacy": "Privacy", "notifications": "Notifications",
+    "appearance": "Appearance", "language": "Language", "theme": "Theme", "timezone": "Timezone",
+    "changePassword": "Change password", "currentPassword": "Current password",
+    "newPassword": "New password", "confirmNewPassword": "Confirm new password",
+    "passwordChanged": "Password changed successfully"
+  },
+  "footer": {
+    "tagline": "The internship management platform for students, companies and universities.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "companies": {
+    "hint": "Click a company to view its internship offers.",
+    "name": "Name",
+    "none": "No company."
+  },
+  "students": {
+    "title": "Students management", "year": "Year", "none": "No student",
+    "deleteConfirm": "Delete this student?", "deleteManyConfirm": "Delete selected students?",
+    "tempPwdNote": "A temporary password is emailed (must be changed at first login).",
+    "scoreRange": "Score must be between 0 and 20."
+  },
+  "supervisors": {
+    "title": "Supervisors management", "none": "No supervisor",
+    "deleteConfirm": "Delete this supervisor?", "deleteManyConfirm": "Delete selected supervisors?"
+  },
+  "errors": {
+    "pageNotFound": "Page not found", "serverError": "Server error", "networkError": "Network error",
+    "unauthorized": "Unauthorized", "forbidden": "Forbidden", "validationError": "Validation error",
+    "somethingWentWrong": "Something went wrong", "tryAgain": "Please try again",
+    "loadError": "Error loading data", "saveError": "Error saving data",
+    "deleteError": "Error deleting data", "sessionExpired": "Session expired. Please log in again."
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "common": {
+    "welcome": "مرحباً", "login": "تسجيل الدخول", "logout": "تسجيل الخروج", "register": "إنشاء حساب",
+    "profile": "الملف الشخصي", "dashboard": "لوحة التحكم", "settings": "الإعدادات",
+    "save": "حفظ", "cancel": "إلغاء", "delete": "حذف", "edit": "تعديل",
+    "updated": "تم التحديث", "created": "تم الإنشاء", "deleted": "تم الحذف",
+    "add": "إضافة", "create": "إنشاء", "validate": "تأكيد", "search": "بحث",
+    "filter": "تصفية", "loading": "جاري التحميل...", "saving": "جاري الحفظ...",
+    "error": "خطأ", "success": "نجاح", "confirm": "تأكيد", "yes": "نعم", "no": "لا",
+    "next": "التالي", "previous": "السابق", "submit": "إرسال", "back": "رجوع",
+    "home": "الرئيسية", "about": "حول", "contact": "اتصل", "help": "مساعدة",
+    "language": "اللغة", "theme": "المظهر", "light": "فاتح", "dark": "داكن", "close": "إغلاق",
+    "view": "عرض", "none": "لا شيء", "upload": "رفع", "saved": "تم الحفظ!",
+    "actions": "إجراءات", "action": "إجراء", "viewDetails": "عرض التفاصيل",
+    "saveRanking": "حفظ رغباتي", "noData": "لا توجد بيانات", "or": "أو",
+    "all": "الكل", "results": "نتيجة", "selected": "محدد", "deleteSelection": "حذف", "close": "إغلاق", "other": "أخرى"
+  },
+  "navbar": {
+    "home": "الرئيسية", "about": "حول", "login": "تسجيل الدخول", "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج", "language": "اللغة", "theme": "المظهر",
+    "darkMode": "الوضع الداكن", "lightMode": "الوضع الفاتح"
+  },
+  "auth": {
+    "login": "تسجيل الدخول", "logout": "تسجيل الخروج", "register": "إنشاء حساب جديد",
+    "forgotPassword": "نسيت كلمة المرور؟", "resetPassword": "إعادة تعيين كلمة المرور",
+    "email": "البريد الإلكتروني", "password": "كلمة المرور", "confirmPassword": "تأكيد كلمة المرور",
+    "newPassword": "كلمة المرور الجديدة", "rememberMe": "تذكرني", "role": "الدور",
+    "fillAllFields": "يرجى ملء جميع الحقول",
+    "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "accountNotVerified": "الحساب غير مؤكد",
+    "emailAlreadyUsed": "هذا البريد الإلكتروني مستخدم بالفعل",
+    "passwordTooWeak": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل",
+    "passwordTooShort": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل",
+    "passwordsNotMatch": "كلمات المرور غير متطابقة",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "noAccount": "ليس لديك حساب؟", "alreadyAccount": "لديك حساب بالفعل؟",
+    "continueWithGoogle": "المتابعة مع Google",
+    "changePasswordTitle": "تغيير كلمة المرور",
+    "changePasswordSubtitle": "تم إنشاء حسابك من قبل المسؤول. حدّد كلمة مرور جديدة للمتابعة.",
+    "confirmChange": "تأكيد التغيير"
+  },
+  "register": {
+    "title": "تسجيل شركة",
+    "subtitle": "أنشئ حساب شركتك لنشر عروض التدريب.",
+    "companyName": "اسم الشركة",
+    "sector": "قطاع النشاط",
+    "manager": "المسؤول",
+    "website": "الموقع الإلكتروني",
+    "note": "يمكن للشركات فقط إنشاء حساب. يُنشأ الطلاب والمشرفون من قبل إدارتهم."
+  },
+  "roles": {
+    "company": "شركة", "admin": "إدارة الجامعة",
+    "univSupervisor": "مشرف جامعي", "companySupervisor": "مشرف الشركة"
+  },
+  "home": {
+    "title": "إدارة التدريبات بكل سهولة.",
+    "subtitle": "تربط StageTrack الطلاب والشركات والمشرفين وإدارة الجامعة في منصة حديثة وتعاونية واحدة.",
+    "getStarted": "ابدأ الآن",
+    "features": {
+      "student": { "title": "الطلاب", "desc": "رتّب رغباتك، تابع مهامك وارفع وثائقك بنقرة واحدة." },
+      "company": { "title": "الشركات", "desc": "انشر العروض، أدر مشرفيك وتابع متدربيك." },
+      "supervisor": { "title": "المشرفون", "desc": "تابع تقدم التدريبات وصادق على التقارير." },
+      "admin": { "title": "الإدارة", "desc": "التعيين التلقائي والإحصائيات والإشراف الشامل." }
+    },
+    "how": {
+      "title": "كيف يعمل",
+      "step1": { "title": "استلم بيانات الدخول", "desc": "يستلم الطلاب والمشرفون بيانات الدخول عبر البريد؛ أما الشركات فتُنشئ حسابها بنفسها." },
+      "step2": { "title": "رتّب رغباتك", "desc": "تصفّح العروض ورتّب تفضيلاتك للتدريب." },
+      "step3": { "title": "التعيين والمتابعة", "desc": "يتم التعيين تلقائياً، ثم تابع مهامك ووثائقك." }
+    },
+    "actorsTitle": "منصة لكل فاعل",
+    "actorsSubtitle": "الطلاب والشركات والمشرفون والإدارة — لكلٍّ مساحته الخاصة.",
+    "company": {
+      "badge": "للشركات",
+      "title": "وظّف متدربيك بكل بساطة",
+      "subtitle": "انشر عروضك، استلم طلبات مرتبة وتابع متدربيك من البداية إلى النهاية.",
+      "p1": "نشر عروض تدريب غير محدودة",
+      "p2": "تعيين تلقائي حسب الاستحقاق والرغبات",
+      "p3": "تابع المهام والتقارير والاتفاقيات في الوقت الفعلي",
+      "cta": "سجّل شركتي",
+      "cardTitle": "مساحة الشركة",
+      "cardSub": "كل عمليات توظيف التدريب",
+      "stat1": "عروض التدريب المنشورة",
+      "stat2": "طلبات مرتبة تلقائياً",
+      "stat3": "متابعة المتدربين والمشرفين"
+    },
+    "why": {
+      "title": "لماذا StageTrack؟",
+      "centralise": { "title": "كل شيء في مكان واحد", "desc": "العروض والرغبات والتعيينات والمهام والوثائق مجمّعة." },
+      "time": { "title": "توفير الوقت", "desc": "التعيين التلقائي يغني عن ساعات من المعالجة اليدوية." },
+      "transparency": { "title": "الشفافية", "desc": "كل فاعل يتابع التقدم في الوقت الفعلي دون غموض." },
+      "tracking": { "title": "متابعة كاملة", "desc": "من تقديم الطلب إلى المصادقة على تقرير التدريب." }
+    },
+    "cta": {
+      "title": "جاهز لتبسيط التدريبات؟",
+      "subtitle": "انضم إلى StageTrack وأدر دورة التدريب بالكامل في مكان واحد.",
+      "button": "ابدأ الآن"
+    }
+  },
+  "about": {
+    "title": "حول StageTrack",
+    "description": "StageTrack منصة حديثة لإدارة التدريب تجمع وتُبسّط المسار كاملاً: من نشر العروض إلى المصادقة النهائية على التقرير.",
+    "role": "مهندسة برمجيات مبتدئة",
+    "developedBy": "تطوير",
+    "points": {
+      "mission": { "title": "مهمتنا", "desc": "تبسيط إدارة التدريبات للجامعات والشركات." },
+      "collab": { "title": "التعاون", "desc": "الطلاب والمشرفون والإدارة يعملون في مكان واحد." },
+      "auto": { "title": "التعيين التلقائي", "desc": "إسناد التدريبات حسب الرغبات والاستحقاق بنقرة واحدة." },
+      "secure": { "title": "الأمان", "desc": "مصادقة بالبريد الإلكتروني وأدوار وبيانات محمية." }
+    },
+    "teamMember": "عضو الفريق"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم", "internships": "التدريبات", "applications": "الطلبات",
+    "documents": "الوثائق", "messages": "الرسائل", "chat": "المحادثة", "calendar": "التقويم",
+    "profile": "ملفي الشخصي", "settings": "الإعدادات", "help": "المساعدة والدعم",
+    "tasks": "المهام", "monitoring": "المتابعة", "students": "الطلاب", "companies": "الشركات",
+    "supervisors": "المشرفون", "assignment": "التعيين", "interns": "المتدربون", "disconnect": "تسجيل الخروج", "offers": "العروض", "myWishes": "رغباتي"
+  },
+  "dashboard": {
+    "welcome": "مرحباً بك في فضائك", "welcomeStudent": "مرحباً، رتّب عروض التدريب!",
+    "rankInstructions": "رتّب العروض حسب أولوياتك", "assignedInternship": "التدريب المخصص",
+    "noAssignedInternship": "لا يوجد تدريب مخصص حالياً.", "supervisors": "المشرفون",
+    "noSupervisor": "لم يتم تسجيل أي مشرف.", "univSupervisor": "المشرف الجامعي",
+    "companySupervisor": "مشرف الشركة", "supervisedInterns": "المتدربون المُشرَف عليهم",
+    "rankSaved": "تم حفظ الرغبات!", "stats": "إحصائيات المؤسسة",
+    "totalInternships": "إجمالي التدريبات", "openInternships": "التدريبات المفتوحة",
+    "finishedInternships": "التدريبات المنتهية", "onsite": "حضوري", "remote": "عن بُعد",
+    "totalStudents": "الطلاب", "totalCompanies": "الشركات", "byDomain": "التدريبات حسب المجال",
+    "noStats": "لا توجد إحصائيات متاحة.", "noOffers": "لم يتم العثور على عروض.", "loading": "جاري التحميل...",
+    "byStatus": "التوزيع حسب الحالة", "candidaturesByOffer": "الطلبات حسب العرض",
+    "totalOffers": "العروض", "totalApplications": "الطلبات", "totalPositions": "المناصب",
+    "noLevel": "لا يوجد مستوى محدد لحسابك. يرجى الاتصال بالإدارة."
+  },
+  "internship": {
+    "title": "عنوان التدريب", "company": "الشركة", "location": "الموقع", "duration": "المدة",
+    "startDate": "تاريخ البدء", "endDate": "تاريخ الانتهاء", "description": "الوصف",
+    "requirements": "المهارات المطلوبة", "salary": "التعويض", "apply": "تقديم",
+    "viewDetails": "عرض التفاصيل", "noInternships": "لا تتوفر تدريبات", "none": "لا يوجد تدريب",
+    "subject": "العنوان", "domain": "المجال", "type": "النوع", "onsite": "حضوري", "remote": "عن بُعد",
+    "localization": "الموقع", "skills": "المهارات", "period": "الفترة", "posts": "عدد المناصب",
+    "newOffer": "عرض جديد", "searchPlaceholder": "البحث عن تدريب...",
+    "createOffer": "إنشاء عرض", "editOffer": "تعديل العرض", "deleteConfirm": "حذف هذا العرض؟",
+    "myOffers": "عروض التدريب الخاصة بي", "list": "التدريبات المُشرَف عليها", "candidatures": "الطلبات",
+    "offers": "عروض التدريب", "details": "تفاصيل العرض",
+    "typeOffre": "نوع العرض", "targetLevels": "المستويات المستهدفة", "level": "المستوى",
+    "statuses": { "ouvert": "مفتوح", "ferme": "مغلق", "en_cours": "قيد التنفيذ", "termine": "منتهٍ" }
+  },
+  "profile": {
+    "personalInfo": "المعلومات الشخصية", "documents": "الوثائق",
+    "nom": "الاسم العائلي", "prenom": "الاسم الشخصي", "mail": "البريد الإلكتروني", "tel": "الهاتف",
+    "adresse": "العنوان", "ville": "المدينة", "date_naissance": "تاريخ الميلاد", "sexe": "الجنس",
+    "niveau": "المستوى", "filiere": "الشعبة", "poste": "المنصب", "specialite": "التخصص", "grade": "الرتبة",
+    "score": "النقطة", "report": "التقرير", "convention": "الاتفاقية", "coverLetter": "رسالة الدافع",
+    "complete": "إكمال الملف الشخصي", "completeHint": "املأ هذه المعلومات للوصول إلى جميع الميزات.",
+    "leaveEmpty": "اتركه فارغاً للإبقاء على الحالي", "updated": "تم تحديث الملف!", "fileUploaded": "تم رفع الملف!",
+    "updateProfile": "تحديث الملف الشخصي", "profileUpdated": "تم تحديث الملف بنجاح"
+  },
+  "tasks": {
+    "manage": "إسناد المهام", "tracking": "متابعة المهام", "title": "المهمة",
+    "deadline": "الموعد النهائي", "status": "الحالة", "add": "إضافة مهمة", "none": "لا توجد مهام",
+    "markDone": "إنهاء", "markUndone": "إعادة فتح", "selectStage": "اختر تدريباً",
+    "assignTo": "إسناد إلى...", "required": "العنوان مطلوب"
+  },
+  "supervisor": {
+    "add": "إضافة مشرف", "created": "تم إنشاء المشرف. تم إرسال كلمة مرور مؤقتة إليه عبر البريد.",
+    "deleteConfirm": "حذف هذا المشرف؟", "position": "المنصب", "specialty": "التخصص",
+    "grade": "الرتبة", "assign": "إسناد", "assignUniv": "إسناد مشرف جامعي",
+    "select": "اختر مشرفاً", "none": "لا يوجد مشرف", "assigned": "تم إسناد المشرف"
+  },
+  "interns": { "none": "لا يوجد متدربون", "details": "تفاصيل المتدرب", "select": "اختر متدرباً" },
+  "report": { "status": "حالة التقرير", "validate": "مصادقة", "reject": "رفض" },
+  "assignment": {
+    "title": "تعيين الطلاب", "runAuto": "تشغيل التعيين التلقائي",
+    "wishes": "رغبات التدريب", "rank": "الترتيب",
+    "runDone": "تم التعيين",
+    "withdraw": "الانسحاب",
+    "withdrawConfirm": "تأكيد الانسحاب؟ هذا الإجراء نهائي ويحرر مكانك لتحسين تعيين الآخرين.",
+    "withdrawn": "لقد انسحبت",
+    "desistUntil": "الانسحاب ممكن حتى",
+    "closed": "أُغلقت حملة التعيين",
+    "notStarted": "لم يبدأ التعيين بعد",
+    "wishesDeadline": "الموعد النهائي لترتيب الرغبات",
+    "setDeadline": "تحديد الموعد النهائي",
+    "deadlineSet": "تم حفظ الموعد النهائي",
+    "deadlinePassed": "انتهى الموعد النهائي — لا يمكن تعديل الرغبات",
+    "noDeadline": "لا يوجد موعد نهائي محدد"
+  },
+  "tracking": {
+    "title": "متابعة التدريبات",
+    "noteEntr": "نقطة مشرف الشركة",
+    "noteUniv": "نقطة المشرف الجامعي",
+    "average": "المعدل",
+    "rate": "تقييم",
+    "myNote": "نقطتي",
+    "none": "لا توجد تدريبات للمتابعة",
+    "report": "التقرير",
+    "saved": "تم حفظ النقطة"
+  },
+  "settings": {
+    "general": "عام", "security": "الأمان", "privacy": "الخصوصية", "notifications": "الإشعارات",
+    "appearance": "المظهر", "language": "اللغة", "theme": "المظهر", "timezone": "المنطقة الزمنية",
+    "changePassword": "تغيير كلمة المرور", "currentPassword": "كلمة المرور الحالية",
+    "newPassword": "كلمة المرور الجديدة", "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+    "passwordChanged": "تم تغيير كلمة المرور بنجاح"
+  },
+  "footer": {
+    "tagline": "منصة إدارة التدريبات للطلاب والشركات والجامعات.",
+    "navigation": "التنقل",
+    "contact": "اتصل",
+    "rights": "جميع الحقوق محفوظة."
+  },
+  "companies": {
+    "hint": "انقر على شركة لعرض عروض التدريب الخاصة بها.",
+    "name": "الاسم",
+    "none": "لا توجد شركة."
+  },
+  "students": {
+    "title": "إدارة الطلاب", "year": "السنة", "none": "لا يوجد طالب",
+    "deleteConfirm": "حذف هذا الطالب؟", "deleteManyConfirm": "حذف الطلاب المحددين؟",
+    "tempPwdNote": "يتم إرسال كلمة مرور مؤقتة عبر البريد (يجب تغييرها عند أول تسجيل دخول).",
+    "scoreRange": "يجب أن تكون النقطة بين 0 و20."
+  },
+  "supervisors": {
+    "title": "إدارة المشرفين", "none": "لا يوجد مشرف",
+    "deleteConfirm": "حذف هذا المشرف؟", "deleteManyConfirm": "حذف المشرفين المحددين؟"
+  },
+  "errors": {
+    "pageNotFound": "الصفحة غير موجودة", "serverError": "خطأ في الخادم", "networkError": "خطأ في الشبكة",
+    "unauthorized": "غير مصرح", "forbidden": "ممنوع", "validationError": "خطأ في التحقق",
+    "somethingWentWrong": "حدث خطأ ما", "tryAgain": "يرجى المحاولة مرة أخرى",
+    "loadError": "خطأ في تحميل البيانات", "saveError": "خطأ في حفظ البيانات",
+    "deleteError": "خطأ في حذف البيانات", "sessionExpired": "انتهت الجلسة. يرجى تسجيل الدخول مجدداً."
+  }
+}

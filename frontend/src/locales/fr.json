@@ -1,0 +1,235 @@
+{
+  "common": {
+    "welcome": "Bienvenue", "login": "Connexion", "logout": "Déconnexion", "register": "Inscription",
+    "profile": "Profil", "dashboard": "Tableau de bord", "settings": "Paramètres",
+    "save": "Enregistrer", "cancel": "Annuler", "delete": "Supprimer", "edit": "Modifier",
+    "updated": "Mis à jour", "created": "Créé", "deleted": "Supprimé",
+    "add": "Ajouter", "create": "Créer", "validate": "Valider", "search": "Rechercher",
+    "filter": "Filtrer", "loading": "Chargement...", "saving": "Enregistrement...",
+    "error": "Erreur", "success": "Succès", "confirm": "Confirmer", "yes": "Oui", "no": "Non",
+    "next": "Suivant", "previous": "Précédent", "submit": "Soumettre", "back": "Retour",
+    "home": "Accueil", "about": "À propos", "contact": "Contact", "help": "Aide",
+    "language": "Langue", "theme": "Thème", "light": "Clair", "dark": "Sombre", "close": "Fermer",
+    "view": "Voir", "none": "Aucun", "upload": "Téléverser", "saved": "Enregistré !",
+    "actions": "Actions", "action": "Action", "viewDetails": "Voir les détails",
+    "saveRanking": "Enregistrer mes vœux", "noData": "Aucune donnée disponible", "or": "ou",
+    "all": "Tous", "results": "résultat(s)", "selected": "sélectionné(s)", "deleteSelection": "Supprimer", "close": "Fermer", "other": "Autres"
+  },
+  "navbar": {
+    "home": "Accueil", "about": "À propos", "login": "Connexion", "register": "Inscription",
+    "logout": "Déconnexion", "language": "Langue", "theme": "Thème",
+    "darkMode": "Mode sombre", "lightMode": "Mode clair"
+  },
+  "auth": {
+    "login": "Se connecter", "logout": "Se déconnecter", "register": "Créer un compte",
+    "forgotPassword": "Mot de passe oublié ?", "resetPassword": "Réinitialiser le mot de passe",
+    "email": "Email", "password": "Mot de passe", "confirmPassword": "Confirmer le mot de passe",
+    "newPassword": "Nouveau mot de passe", "rememberMe": "Se souvenir de moi", "role": "Rôle",
+    "fillAllFields": "Veuillez remplir tous les champs",
+    "invalidCredentials": "Email ou mot de passe incorrect",
+    "accountNotVerified": "Compte non vérifié",
+    "emailAlreadyUsed": "Cet email est déjà utilisé",
+    "passwordTooWeak": "Le mot de passe doit contenir au moins 8 caractères",
+    "passwordTooShort": "Le mot de passe doit contenir au moins 8 caractères",
+    "passwordsNotMatch": "Les mots de passe ne correspondent pas",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "noAccount": "Pas encore de compte ?", "alreadyAccount": "Déjà un compte ?",
+    "continueWithGoogle": "Continuer avec Google",
+    "changePasswordTitle": "Changer votre mot de passe",
+    "changePasswordSubtitle": "Votre compte a été créé par un administrateur. Définissez un nouveau mot de passe pour continuer.",
+    "confirmChange": "Confirmer le changement"
+  },
+  "register": {
+    "title": "Inscription entreprise",
+    "subtitle": "Créez le compte de votre entreprise pour publier des offres de stage.",
+    "companyName": "Nom de l'entreprise",
+    "sector": "Secteur d'activité",
+    "manager": "Responsable",
+    "website": "Site web",
+    "note": "Seules les entreprises peuvent créer un compte. Les étudiants et encadrants sont créés par leur administration."
+  },
+  "roles": {
+    "company": "Entreprise", "admin": "Administration universitaire",
+    "univSupervisor": "Encadrant universitaire", "companySupervisor": "Encadrant entreprise"
+  },
+  "home": {
+    "title": "Gérez vos stages, simplement.",
+    "subtitle": "StageTrack connecte étudiants, entreprises, encadrants et administration universitaire sur une plateforme moderne et collaborative.",
+    "getStarted": "Commencer",
+    "features": {
+      "student": { "title": "Étudiants", "desc": "Classez vos vœux, suivez vos tâches et déposez vos documents en un clic." },
+      "company": { "title": "Entreprises", "desc": "Publiez vos offres, gérez vos encadrants et suivez vos stagiaires." },
+      "supervisor": { "title": "Encadrants", "desc": "Suivez l'avancement des stages et validez les rapports." },
+      "admin": { "title": "Administration", "desc": "Affectation automatique, statistiques et pilotage global." }
+    },
+    "how": {
+      "title": "Comment ça marche",
+      "step1": { "title": "Recevez vos identifiants", "desc": "Étudiants et encadrants reçoivent leurs identifiants par email ; seules les entreprises créent leur compte." },
+      "step2": { "title": "Classez vos vœux", "desc": "Parcourez les offres et ordonnez vos préférences de stage." },
+      "step3": { "title": "Affectation & suivi", "desc": "L'affectation se fait automatiquement, puis suivez vos tâches et documents." }
+    },
+    "actorsTitle": "Une plateforme pour chaque acteur",
+    "actorsSubtitle": "Étudiants, entreprises, encadrants et administration — chacun son espace dédié.",
+    "company": {
+      "badge": "Pour les entreprises",
+      "title": "Recrutez vos stagiaires en toute simplicité",
+      "subtitle": "Publiez vos offres, recevez des candidatures classées et suivez vos stagiaires de bout en bout.",
+      "p1": "Publiez des offres de stage illimitées",
+      "p2": "Affectation automatique selon le mérite et les vœux",
+      "p3": "Suivez tâches, rapports et conventions en temps réel",
+      "cta": "Inscrire mon entreprise",
+      "cardTitle": "Espace entreprise",
+      "cardSub": "Tout votre recrutement de stages",
+      "stat1": "Offres de stage publiées",
+      "stat2": "Candidatures classées automatiquement",
+      "stat3": "Suivi des stagiaires et encadrants"
+    },
+    "why": {
+      "title": "Pourquoi StageTrack ?",
+      "centralise": { "title": "Tout centralisé", "desc": "Offres, vœux, affectations, tâches et documents au même endroit." },
+      "time": { "title": "Gain de temps", "desc": "L'affectation automatique remplace des heures de traitement manuel." },
+      "transparency": { "title": "Transparence", "desc": "Chaque acteur suit l'avancement en temps réel, sans zones d'ombre." },
+      "tracking": { "title": "Suivi complet", "desc": "Du dépôt de candidature à la validation du rapport de stage." }
+    },
+    "cta": {
+      "title": "Prêt à simplifier vos stages ?",
+      "subtitle": "Rejoignez StageTrack et gérez tout le cycle de stage en un seul endroit.",
+      "button": "Commencer maintenant"
+    }
+  },
+  "about": {
+    "title": "À propos de StageTrack",
+    "description": "StageTrack est une plateforme moderne de gestion des stages, qui centralise et fluidifie tout le parcours : de la publication des offres à la validation finale du rapport.",
+    "role": "Junior Software Engineer",
+    "developedBy": "Développé par",
+    "points": {
+      "mission": { "title": "Notre mission", "desc": "Simplifier la gestion des stages pour les universités et les entreprises." },
+      "collab": { "title": "Collaboration", "desc": "Étudiants, encadrants et administration travaillent au même endroit." },
+      "auto": { "title": "Affectation automatique", "desc": "Attribution des stages selon les vœux et le mérite, en un clic." },
+      "secure": { "title": "Sécurité", "desc": "Authentification par email, rôles et données protégées." }
+    },
+    "teamMember": "Membre de l'équipe"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord", "internships": "Stages", "applications": "Candidatures",
+    "documents": "Documents", "messages": "Messages", "chat": "Messagerie", "calendar": "Calendrier",
+    "profile": "Mon profil", "settings": "Paramètres", "help": "Aide et support",
+    "tasks": "Tâches", "monitoring": "Suivi", "students": "Étudiants", "companies": "Entreprises",
+    "supervisors": "Encadrants", "assignment": "Affectation", "interns": "Stagiaires", "disconnect": "Déconnexion", "offers": "Offres", "myWishes": "Mes vœux"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue sur votre espace", "welcomeStudent": "Bienvenue, classez vos offres de stage !",
+    "rankInstructions": "Classez vos offres par ordre de préférence", "assignedInternship": "Stage affecté",
+    "noAssignedInternship": "Aucun stage affecté pour le moment.", "supervisors": "Encadrants",
+    "noSupervisor": "Aucun encadrant renseigné.", "univSupervisor": "Encadrant université",
+    "companySupervisor": "Encadrant entreprise", "supervisedInterns": "Stagiaires encadrés",
+    "rankSaved": "Vœux enregistrés !", "stats": "Statistiques de l'établissement",
+    "totalInternships": "Stages au total", "openInternships": "Stages ouverts",
+    "finishedInternships": "Stages terminés", "onsite": "Présentiel", "remote": "À distance",
+    "totalStudents": "Étudiants", "totalCompanies": "Entreprises", "byDomain": "Répartition par domaine",
+    "noStats": "Aucune statistique disponible.", "noOffers": "Aucune offre trouvée.", "loading": "Chargement...",
+    "byStatus": "Répartition par statut", "candidaturesByOffer": "Candidatures par offre",
+    "totalOffers": "Offres", "totalApplications": "Candidatures", "totalPositions": "Postes",
+    "noLevel": "Aucun niveau défini pour votre compte. Contactez l'administration."
+  },
+  "internship": {
+    "title": "Titre du stage", "company": "Entreprise", "location": "Lieu", "duration": "Durée",
+    "startDate": "Date de début", "endDate": "Date de fin", "description": "Description",
+    "requirements": "Compétences requises", "salary": "Rémunération", "apply": "Postuler",
+    "viewDetails": "Voir les détails", "noInternships": "Aucun stage disponible", "none": "Aucun stage",
+    "subject": "Titre", "domain": "Domaine", "type": "Type", "onsite": "Présentiel", "remote": "À distance",
+    "localization": "Localisation", "skills": "Compétences", "period": "Période", "posts": "Nombre de postes",
+    "newOffer": "Nouvelle offre", "searchPlaceholder": "Rechercher un stage...",
+    "createOffer": "Créer une offre", "editOffer": "Modifier l'offre", "deleteConfirm": "Supprimer cette offre ?",
+    "myOffers": "Mes offres de stage", "list": "Stages encadrés", "candidatures": "Candidatures",
+    "offers": "Offres de stage", "details": "Détails de l'offre",
+    "typeOffre": "Type d'offre", "targetLevels": "Niveaux ciblés", "level": "Niveau",
+    "statuses": { "ouvert": "Ouvert", "ferme": "Fermé", "en_cours": "En cours", "termine": "Terminé" }
+  },
+  "profile": {
+    "personalInfo": "Informations personnelles", "documents": "Documents",
+    "nom": "Nom", "prenom": "Prénom", "mail": "Email", "tel": "Téléphone",
+    "adresse": "Adresse", "ville": "Ville", "date_naissance": "Date de naissance", "sexe": "Sexe",
+    "niveau": "Niveau", "filiere": "Filière", "poste": "Poste", "specialite": "Spécialité", "grade": "Grade",
+    "score": "Score", "report": "Rapport", "convention": "Convention", "coverLetter": "Lettre de motivation",
+    "complete": "Compléter le profil", "completeHint": "Renseignez ces informations pour accéder à toutes les fonctionnalités.",
+    "leaveEmpty": "Laisser vide pour ne pas changer", "updated": "Profil mis à jour !", "fileUploaded": "Fichier téléversé !",
+    "updateProfile": "Mettre à jour le profil", "profileUpdated": "Profil mis à jour avec succès"
+  },
+  "tasks": {
+    "manage": "Assignation des tâches", "tracking": "Suivi des tâches", "title": "Tâche",
+    "deadline": "Échéance", "status": "Statut", "add": "Ajouter la tâche", "none": "Aucune tâche",
+    "markDone": "Terminer", "markUndone": "Rouvrir", "selectStage": "Sélectionnez un stage",
+    "assignTo": "Assigner à...", "required": "Le titre est obligatoire"
+  },
+  "supervisor": {
+    "add": "Ajouter un encadrant", "created": "Encadrant créé. Un mot de passe temporaire lui a été envoyé par email.",
+    "deleteConfirm": "Supprimer cet encadrant ?", "position": "Poste", "specialty": "Spécialité",
+    "grade": "Grade", "assign": "Affecter", "assignUniv": "Affecter un encadrant universitaire",
+    "select": "Sélectionner un encadrant", "none": "Aucun encadrant", "assigned": "Encadrant affecté"
+  },
+  "interns": { "none": "Aucun stagiaire", "details": "Détails du stagiaire", "select": "Sélectionnez un stagiaire" },
+  "report": { "status": "Statut du rapport", "validate": "Valider", "reject": "Rejeter" },
+  "assignment": {
+    "title": "Affectation des étudiants", "runAuto": "Lancer l'affectation automatique",
+    "wishes": "Vœux de stage", "rank": "Rang",
+    "runDone": "Affectation effectuée",
+    "withdraw": "Se désister",
+    "withdrawConfirm": "Confirmer le désistement ? Cette action est définitive et libère votre place pour améliorer l'affectation des autres.",
+    "withdrawn": "Vous vous êtes désisté(e)",
+    "desistUntil": "Désistement possible jusqu'au",
+    "closed": "Campagne d'affectation clôturée",
+    "notStarted": "Affectation non encore lancée",
+    "wishesDeadline": "Date limite de classement des vœux",
+    "setDeadline": "Définir la date limite",
+    "deadlineSet": "Date limite enregistrée",
+    "deadlinePassed": "Date limite dépassée — modification des vœux impossible",
+    "noDeadline": "Aucune date limite définie"
+  },
+  "tracking": {
+    "title": "Suivi des stages",
+    "noteEntr": "Note encadrant entreprise",
+    "noteUniv": "Note encadrant université",
+    "average": "Moyenne",
+    "rate": "Noter",
+    "myNote": "Ma note",
+    "none": "Aucun stage à suivre",
+    "report": "Rapport",
+    "saved": "Note enregistrée"
+  },
+  "settings": {
+    "general": "Général", "security": "Sécurité", "privacy": "Confidentialité", "notifications": "Notifications",
+    "appearance": "Apparence", "language": "Langue", "theme": "Thème", "timezone": "Fuseau horaire",
+    "changePassword": "Changer le mot de passe", "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe", "confirmNewPassword": "Confirmer le nouveau mot de passe",
+    "passwordChanged": "Mot de passe changé avec succès"
+  },
+  "footer": {
+    "tagline": "La plateforme de gestion des stages pour étudiants, entreprises et universités.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  },
+  "companies": {
+    "hint": "Cliquez sur une entreprise pour voir ses offres de stage.",
+    "name": "Nom",
+    "none": "Aucune entreprise."
+  },
+  "students": {
+    "title": "Gestion des étudiants", "year": "Année", "none": "Aucun étudiant",
+    "deleteConfirm": "Supprimer cet étudiant ?", "deleteManyConfirm": "Supprimer les étudiants sélectionnés ?",
+    "tempPwdNote": "Un mot de passe temporaire est envoyé par email (changement obligatoire à la 1re connexion).",
+    "scoreRange": "Le score doit être compris entre 0 et 20."
+  },
+  "supervisors": {
+    "title": "Gestion des encadrants", "none": "Aucun encadrant",
+    "deleteConfirm": "Supprimer cet encadrant ?", "deleteManyConfirm": "Supprimer les encadrants sélectionnés ?"
+  },
+  "errors": {
+    "pageNotFound": "Page non trouvée", "serverError": "Erreur serveur", "networkError": "Erreur réseau",
+    "unauthorized": "Non autorisé", "forbidden": "Accès interdit", "validationError": "Erreur de validation",
+    "somethingWentWrong": "Une erreur est survenue", "tryAgain": "Veuillez réessayer",
+    "loadError": "Erreur lors du chargement", "saveError": "Erreur lors de l'enregistrement",
+    "deleteError": "Erreur lors de la suppression", "sessionExpired": "Session expirée. Veuillez vous reconnecter."
+  }
+}

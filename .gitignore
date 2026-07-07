@@ -1,0 +1,18 @@
+# ===== BACKEND =====
+backend/node_modules/
+backend/.env
+backend/logs/
+backend/public/
+
+# ===== FRONTEND =====
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# ===== EDITEUR / OS =====
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== LOGS =====
+*.log
